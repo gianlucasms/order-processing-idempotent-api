@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderProcessing.IdempotentApi", "OrderProcessing.IdempotentApi\OrderProcessing.IdempotentApi.csproj", "{883072D4-97A7-48CB-A9D4-B5073FC31067}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{883072D4-97A7-48CB-A9D4-B5073FC31067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{883072D4-97A7-48CB-A9D4-B5073FC31067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{883072D4-97A7-48CB-A9D4-B5073FC31067}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{883072D4-97A7-48CB-A9D4-B5073FC31067}.Debug|x64.Build.0 = Debug|Any CPU
+		{883072D4-97A7-48CB-A9D4-B5073FC31067}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{883072D4-97A7-48CB-A9D4-B5073FC31067}.Debug|x86.Build.0 = Debug|Any CPU
+		{883072D4-97A7-48CB-A9D4-B5073FC31067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{883072D4-97A7-48CB-A9D4-B5073FC31067}.Release|Any CPU.Build.0 = Release|Any CPU
+		{883072D4-97A7-48CB-A9D4-B5073FC31067}.Release|x64.ActiveCfg = Release|Any CPU
+		{883072D4-97A7-48CB-A9D4-B5073FC31067}.Release|x64.Build.0 = Release|Any CPU
+		{883072D4-97A7-48CB-A9D4-B5073FC31067}.Release|x86.ActiveCfg = Release|Any CPU
+		{883072D4-97A7-48CB-A9D4-B5073FC31067}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41D5CCD6-3BB7-4E38-86A5-A9DF6D6F1DB2}
+	EndGlobalSection
+EndGlobal
